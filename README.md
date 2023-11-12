@@ -1268,5 +1268,6 @@ For more information check the following doc: - [UML_Diagram.pg](UML_Diagram.pdf
 - [] Entender correctamente lo de InputStream
 - [] Pensar y ejecturar ejemplos con InputStrem
 - [] Pensar y ejecturar ejemplos con excepciones
-- [] Traducir todo al ingles
 - [] Quitar todo el codigo que no sean ejemplos y pasar a referencias en Classes.
+- [] Añadir un apartado de concurrencia
+- [] Relizar el mismo proyecto de testServices que hicimos en el curso de python aquí en java bajo un nuevo path /testServices
